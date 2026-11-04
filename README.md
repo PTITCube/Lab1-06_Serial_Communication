@@ -1,4 +1,4 @@
-# Lab1-02_Serial_Communication
+﻿# Lab1-06_Serial_Communication
 
 **Giao tiếp Serial PC**
 
