@@ -3,6 +3,6 @@ void setup() {
     Serial.begin(115200);
 }
 void loop() {
-    Serial.println("Hello HEPTA-SAT / CubeSat!");
+    Serial.println("Hello PTITCube / CubeSat!");
     delay(1000);
 }
